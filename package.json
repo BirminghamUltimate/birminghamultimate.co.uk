@@ -1,5 +1,5 @@
 {
-  "scripts":{
+  "scripts": {
     "dev": "yarn tailwindcss -i ./styles/tailwind.css -o ./dist/output.css --watch",
     "build": "yarn tailwindcss -i ./styles/tailwind.css -o ./dist/output.css --minify"
   },
