@@ -6,7 +6,8 @@ module.exports = {
       colors: {
         bu: {
           DEFAULT: "#0b0032",
-          light: "#0e6ba5"
+          light: "#0e6ba5",
+          highlight: "#25D366",
         },
         facebook: "#4267B2",
       },
